@@ -68,9 +68,9 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=harshkumar2003&theme=dark&hide_border=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=harshkumar2003&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshkumar2003&theme=dark&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ishansingh-24&theme=dark&hide_border=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ishansingh-24&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishansingh-24&theme=dark&layout=compact)
 
 ---
 
@@ -80,4 +80,4 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=harshkumar2003&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ishansingh-24&icon=0&color=0)](https://visitcount.itsvg.in)
